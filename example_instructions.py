@@ -1,0 +1,1 @@
+{"role": "user", "content": "In Bash, how do I list all text files in the current directory (excluding subdirectories) that have been modified in the last month?"}
